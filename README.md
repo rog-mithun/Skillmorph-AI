@@ -54,3 +54,38 @@ SkillMorph AI is a career development tool that uses Generative AI, resume parsi
    ```bash
    git clone https://github.com/rog-mithun/skillmorph-ai.git
    cd skillmorph-ai
+
+2. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Create a `.env` File and Add Your API Keys:**
+   ```bash
+   GEMINI_API_KEY=your_google_gemini_api_key
+   GITHUB_TOKEN=your_github_token
+   LINKEDIN_TOKEN=your_linkedin_token
+
+4. **Run the Streamlit App:**
+   ```bash
+   streamlit run main.py
+
+---
+
+## 🎬 Demo & Sample Outputs
+
+- PDF Resume Report with AI Feedback  
+- Weekly Upskilling Planner  
+- MP3 Voice Feedback  
+- Talking Avatar Feedback Video (MP4)
+
+*You can add screenshots or sample output videos here.*
+
+---
+
+## 📖 License
+MIT License
+© 2025 Mithunsankar S
+
+---
+
+
