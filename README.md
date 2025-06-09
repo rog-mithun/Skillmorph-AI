@@ -90,14 +90,18 @@ SkillMorph AI is a career development tool that uses Generative AI, resume parsi
 
 ---
 
-## 🎬 Demo & Sample Outputs
+## 📂 Demo & Output Samples
 
-- PDF Resume Report with AI Feedback  
-- Weekly Upskilling Planner  
-- MP3 Voice Feedback  
-- Talking Avatar Feedback Video (MP4)
+### 📸 Screenshots – SkillMorph UI
+![Screenshot 1](media/screenshot1.png)  
+![Screenshot 2](media/screenshot2.png)
 
-*You can add screenshots or sample output videos here.*
+### 📄 Sample PDF Reports
+- [Master Career Report](media/Master_Career_Report.pdf)
+- [Skill Feedback Report](media/skill_report.pdf)
+
+### 🎥 Talking Avatar Demo
+[▶️ Watch Output Video](media/sadtalker_output.mp4)
 
 ---
 
