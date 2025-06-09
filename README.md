@@ -106,8 +106,9 @@ SkillMorph AI is a career development tool that uses Generative AI, resume parsi
 ---
 
 ## 📖 License
-MIT License
-© 2025 Mithunsankar S
+
+This project is licensed under the [MIT License](LICENSE) © 2025 Mithunsankar S.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
