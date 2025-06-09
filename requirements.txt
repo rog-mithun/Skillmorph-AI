@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+requests
+openai
+PyPDF2
+python-dotenv
+python-jose
+reportlab
+pymupdf
