@@ -19,30 +19,30 @@ SkillMorph AI is a career development tool that uses Generative AI, resume parsi
 ## 🛠️ Tech Stack
 
 ### Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Frameworks & Tools:
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gradio](https://img.shields.io/badge/-Gradio-3C3C3C?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-3C3C3C?style=flat&logo=python&logoColor=white)
 
 ### APIs & Integrations:
-![Google Gemini](https://img.shields.io/badge/-Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GitHub API](https://img.shields.io/badge/-GitHub%20API-181717?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn API](https://img.shields.io/badge/-LinkedIn%20API-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=google&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat&logo=github&logoColor=white)
+![LinkedIn API](https://img.shields.io/badge/LinkedIn%20API-0077B5?style=flat&logo=linkedin&logoColor=white)
 
 ### Voice & Audio:
-![gTTS](https://img.shields.io/badge/-gTTS-FF9800?style=for-the-badge)
-![MP3](https://img.shields.io/badge/-MP3-000000?style=for-the-badge)
+![gTTS](https://img.shields.io/badge/gTTS-FF9800?style=flat&logo=google&logoColor=white)
+![MP3](https://img.shields.io/badge/Audio-MP3-black?style=flat&logo=music&logoColor=white)
 
 ### Avatar & Video:
-![SadTalker](https://img.shields.io/badge/-SadTalker-8E24AA?style=for-the-badge)
+![SadTalker](https://img.shields.io/badge/SadTalker-8E24AA?style=flat&logo=adobeaftereffects&logoColor=white)
 
 ### PDF & Report Generation:
-![PDF Generator](https://img.shields.io/badge/-PDF%20Generation-4CAF50?style=for-the-badge)
+![PDF Generator](https://img.shields.io/badge/PDF%20Reports-4CAF50?style=flat&logo=adobeacrobatreader&logoColor=white)
 
-### Other Tools:
-![Dotenv](https://img.shields.io/badge/-Dotenv-1E1E1E?style=for-the-badge)
+### Utilities:
+![Dotenv](https://img.shields.io/badge/Dotenv-1E1E1E?style=flat&logo=python-dotenv&logoColor=white)
 
 ---
 
