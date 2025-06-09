@@ -1,5 +1,7 @@
 # 🧠 SkillMorph AI – Personalized Career Simulator with AI Feedback and Talking Avatar
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 SkillMorph AI is a career development tool that uses Generative AI, resume parsing, and real-time visual feedback to help users identify skill gaps, generate personalized weekly upskilling plans, and receive feedback through a talking avatar.
 
 ---
@@ -17,9 +19,6 @@ SkillMorph AI is a career development tool that uses Generative AI, resume parsi
 ---
 
 ## 🛠️ Tech Stack
-
-### License:
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
