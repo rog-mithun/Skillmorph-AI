@@ -16,14 +16,33 @@ SkillMorph AI is a career development tool that uses Generative AI, resume parsi
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages & Frameworks:** Python, Streamlit, FastAPI  
-**AI/ML:** Google Gemini API, SadTalker, Deep Learning  
-**Voice:** gTTS, MP3 conversion  
-**APIs:** GitHub API, LinkedIn API  
-**PDF/Reports:** PDF Generator  
-**Other Tools:** dotenv, modular Python architecture
+### Languages:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks & Tools:
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-3C3C3C?style=for-the-badge)
+
+### APIs & Integrations:
+![Google Gemini](https://img.shields.io/badge/-Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub API](https://img.shields.io/badge/-GitHub%20API-181717?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn API](https://img.shields.io/badge/-LinkedIn%20API-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+### Voice & Audio:
+![gTTS](https://img.shields.io/badge/-gTTS-FF9800?style=for-the-badge)
+![MP3](https://img.shields.io/badge/-MP3-000000?style=for-the-badge)
+
+### Avatar & Video:
+![SadTalker](https://img.shields.io/badge/-SadTalker-8E24AA?style=for-the-badge)
+
+### PDF & Report Generation:
+![PDF Generator](https://img.shields.io/badge/-PDF%20Generation-4CAF50?style=for-the-badge)
+
+### Other Tools:
+![Dotenv](https://img.shields.io/badge/-Dotenv-1E1E1E?style=for-the-badge)
 
 ---
 
